@@ -8,6 +8,7 @@ import Skills from '@/components/Skills'
 import Projects from '@/components/Projects'
 import ContactMe from '@/components/ContactMe'
 import Link from 'next/link'
+import * as dotenv from 'dotenv'
 
 export default function Home() {
   return (
